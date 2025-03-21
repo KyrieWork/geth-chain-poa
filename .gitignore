@@ -14,3 +14,4 @@ dump.rdb
 /temp
 
 */node1/geth/
+geth.ipc
